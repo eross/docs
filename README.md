@@ -1,3 +1,4 @@
-# eross.github.io
+# docs
 
-This is the documentation.
+mkdocs for eross.github.io.
+
