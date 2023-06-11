@@ -17,4 +17,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 
-More will follow now.
+More will follow now in a few days.
